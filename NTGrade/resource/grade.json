@@ -1,0 +1,48 @@
+{
+  "data" : [
+      {
+          "level" : "1",
+          "name" : "博弈",
+          "image":"boyi",
+          "iconImage":"VIP1",
+          "min" : "0",
+          "max" : "199",
+          "angle" : "0.9"
+      },
+      {
+          "level" : "2",
+          "name" : "禅修",
+          "image":"chanxiu",
+          "iconImage":"VIP2",
+          "min" : "200",
+          "max" : "999",
+          "angle" : "0.8"
+      },
+      {
+          "level" : "3",
+          "name" : "茶水",
+          "image":"chashui",
+          "iconImage":"VIP3",
+          "min" : "1000",
+          "max" : "2999",
+          "angle" : "0.7"
+      },
+      {
+          "level" : "4",
+          "name" : "购物",
+          "image":"gouwu",
+          "iconImage":"VIP4",
+          "min" : "3000",
+          "max" : "7999",
+          "angle" : "0.6"
+      },
+      {
+          "level" : "5",
+          "name" : "竹子",
+          "image":"zhuzi",
+          "iconImage":"VIP5",
+          "min" : "8000",
+          "max" : "99999",
+          "angle" : "0.5"
+      }]
+}
